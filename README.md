@@ -1,11 +1,9 @@
 
 for freelance work? do reach, [email](mailto:punam.dahal.dev@gmail.com) :)
 
-if you like what i have done, maybe consider buying me a coffee
-
-<a href="https://buymeacoffee.com/punam.dev" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy me a coffee" width="150">
-</a>
+<sub>if you like what i have done, maybe consider buying me a </sub>
+<sup><a href="https://buymeacoffee.com/punam.dev" target="_blank"> [☕coffee]
+</a></sup>
 <br>
 
 <sub>
@@ -18,5 +16,8 @@ if you like what i have done, maybe consider buying me a coffee
 - fun fact: [<b><i>i don't have a niche. i have curiosity and internet.</i></b>]
 
 </sub>
+
+<br>
+
 
 
